@@ -1,0 +1,82 @@
+[
+    {
+        "County": "Chelan",
+        "EVPopulation": 6
+    },
+    {
+        "County": "Clallam",
+        "EVPopulation": 14
+    },
+    {
+        "County": "Clark",
+        "EVPopulation": 1457
+    },
+    {
+        "County": "Cowlitz",
+        "EVPopulation": 125
+    },
+    {
+        "County": "Douglas",
+        "EVPopulation": 1
+    },
+    {
+        "County": "Grant",
+        "EVPopulation": 1
+    },
+    {
+        "County": "Island",
+        "EVPopulation": 60
+    },
+    {
+        "County": "Jefferson",
+        "EVPopulation": 128
+    },
+    {
+        "County": "King",
+        "EVPopulation": 11164
+    },
+    {
+        "County": "Kitsap",
+        "EVPopulation": 805
+    },
+    {
+        "County": "Kittitas",
+        "EVPopulation": 1
+    },
+    {
+        "County": "Klickitat",
+        "EVPopulation": 1
+    },
+    {
+        "County": "Skagit",
+        "EVPopulation": 10
+    },
+    {
+        "County": "Snohomish",
+        "EVPopulation": 622
+    },
+    {
+        "County": "Spokane",
+        "EVPopulation": 5
+    },
+    {
+        "County": "Stevens",
+        "EVPopulation": 15
+    },
+    {
+        "County": "Thurston",
+        "EVPopulation": 455
+    },
+    {
+        "County": "Walla Walla",
+        "EVPopulation": 1
+    },
+    {
+        "County": "Whitman",
+        "EVPopulation": 4
+    },
+    {
+        "County": "Yakima",
+        "EVPopulation": 125
+    }
+]
