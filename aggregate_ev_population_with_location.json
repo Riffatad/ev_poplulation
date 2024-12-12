@@ -91,7 +91,7 @@
     },
     {
         "County": "Clark",
-        "EVPopulation": 10457,
+        "EVPopulation": 10451,
         "Latitude": 45.887713,
         "Longitude": -122.631475
     },
@@ -103,7 +103,7 @@
     },
     {
         "County": "Jefferson",
-        "EVPopulation": 1009,
+        "EVPopulation": 1007,
         "Latitude": 48.1129794,
         "Longitude": -122.7862046
     },
@@ -139,7 +139,7 @@
     },
     {
         "County": "Columbia",
-        "EVPopulation": 14,
+        "EVPopulation": 13,
         "Latitude": 46.3125369,
         "Longitude": -117.9665373
     },
@@ -163,7 +163,7 @@
     },
     {
         "County": "Pacific",
-        "EVPopulation": 208,
+        "EVPopulation": 213,
         "Latitude": 46.375408,
         "Longitude": -124.035084
     },
@@ -175,7 +175,7 @@
     },
     {
         "County": "Douglas",
-        "EVPopulation": 351,
+        "EVPopulation": 349,
         "Latitude": 47.7713817,
         "Longitude": -120.1436679
     },
@@ -199,7 +199,7 @@
     },
     {
         "County": "Garfield",
-        "EVPopulation": 4,
+        "EVPopulation": 3,
         "Latitude": 46.475802,
         "Longitude": -117.5975192
     },
@@ -223,7 +223,7 @@
     },
     {
         "County": "Adams",
-        "EVPopulation": 56,
+        "EVPopulation": 55,
         "Latitude": 46.8171276,
         "Longitude": -119.1988575
     },
